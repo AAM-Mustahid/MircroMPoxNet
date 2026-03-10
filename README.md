@@ -32,13 +32,16 @@ MicroMPoxNet/
 ├── assets/
 │   ├── pipeline.png
 │   ├── architecture.png
-│   └── dataset_samples.png
+│   ├── dataset_samples.png
+│   ├── TLModel_Diagram.jpg
+│   ├── XAI_n.jpg
+│   ├── conf_roc_curve.png
+│   ├── model_performance_tradeoffs.png
+│   └── Final_JournalGraph.png
 │
 ├── models/
-│   
 │
 ├── training/
-│   
 │
 └── dataset/
     └── dataset_links.md
@@ -196,5 +199,6 @@ For questions or collaboration inquiries, please contact:
 
 **A. A. M. Mustahid**  
 Email: *mustahid34@gmail.com*
+
 
 ---
