@@ -6,7 +6,7 @@
 **Authors**  
 A. A. M. Mustahid, A. A. M. Muzahid*, Md. Sadekur Rahman, Hua Han, Yujin Zhang, Ferdous Sohel  
 
-📄 **Status:** Paper Under Review
+📄 **Status:** Published
 
 <p align="center">
   <img src="assests/Final_JournalGraph.png" width="95%">
@@ -14,7 +14,7 @@ A. A. M. Mustahid, A. A. M. Muzahid*, Md. Sadekur Rahman, Hua Han, Yujin Zhang, 
 
 ---
 
-[![Paper](https://img.shields.io/badge/Paper-Under%20Review-blue)](#)
+[![Paper](https://img.shields.io/badge/Paper-Published%20-blue)](#)
 [![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-green)](https://drive.google.com/file/d/1P3ZZ01TSJS4v9uhBy0USzfbMXWbO8QIh/view?usp=sharing)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
