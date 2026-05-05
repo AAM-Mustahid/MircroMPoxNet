@@ -182,11 +182,19 @@ The **Mpox2025 dataset** used in this study is currently accessible via the Goog
 If you find this work useful for your research, please consider citing:
 
 ```
-@article{micrompoxnet2026,
-  title={MicroMPoxNet: A Lightweight CNN for Interpretable Monkeypox Classification in Dermoscopic Images with Comparative Transfer Learning Evaluation},
-  author={Mustahid, A. A. M. and Muzahid, A. A. M. and Rahman, Md. Sadekur and Han, Hua and Zhang, Yujin and Sohel, Ferdous},
-  journal={},
-  year={2026}
+@article{Mustahid2026MicroMPoxNet,
+  title = {MicroMPoxNet: A lightweight CNN for interpretable Monkeypox classification in dermoscopic images with comparative transfer learning evaluation},
+  author = {Mustahid, A. A. M. and Muzahid, A. A. M. and Rahman, Md. Sadekur and Han, Hua and Zhang, Yujin and Sohel, Ferdous},
+  journal = {Biomedical Signal Processing and Control},
+  volume = {123},
+  pages = {110404},
+  year = {2026},
+  month = sep,
+  issn = {1746-8094},
+  doi = {10.1016/j.bspc.2026.110404},
+  url = {https://www.sciencedirect.com/science/article/pii/S1746809426009584},
+  keywords = {Mpox classification, Dermoscopic images, Explainable AI, Medical image analysis, Skin disease detection},
+  note = {Open access}
 }
 ```
 
