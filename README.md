@@ -14,7 +14,7 @@ A. A. M. Mustahid, A. A. M. Muzahid*, Md. Sadekur Rahman, Hua Han, Yujin Zhang, 
 ---
 
 [![Paper](https://img.shields.io/badge/Paper-Published-blue)](https://doi.org/10.1016/j.bspc.2026.110404)
-[![BibTeX](https://img.shields.io/badge/Cite-BibTeX-purple)](https://api.crossref.org/works/10.1016/j.bspc.2026.110404/transform/application/x-bibtex)
+[![BibTeX](https://img.shields.io/badge/Cite-BibTeX-purple)](citation.bib)
 [![DOI](https://img.shields.io/badge/DOI-10.1016%2Fj.bspc.2026.110404-blue)](https://doi.org/10.1016/j.bspc.2026.110404)
 [![Dataset](https://img.shields.io/badge/Dataset-Google%20Drive-green)](https://drive.google.com/file/d/1P3ZZ01TSJS4v9uhBy0USzfbMXWbO8QIh/view?usp=sharing)
 [![License](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
